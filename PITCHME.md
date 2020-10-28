@@ -14,7 +14,7 @@ SI業界にて営業として新卒入社。
 プライベートでもエンジニアコミュニティ「increment」を主宰し、Techpitとのイベントも経験。
 ```
 ---
-![](https://digital-shift.jp/flash_news/FN201023_1)
+![](https://cdn.clipkit.co/tenants/591/item_images/images/000/015/585/large/ccee50af-a225-4827-a493-926f9a2f6326.png?1603420305)
 ---
 ## 2019年9月
 - 仕事を失い
