@@ -6,15 +6,18 @@ hashtag : [#Techpit](https://twitter.com/intent/tweet?text=&hashtags=Techpit)
 ---
 ## 自己紹介
 ---
-SI業界にて営業として新卒入社。  
-同社にて、日本・世界各地のネットワーク機器の保守をするネットワークエンジニアを経験。  
-2020年1月に転職。日本最大級ECサイトのバックエンド、フロントを受託開発。  
-プライベートでもエンジニアコミュニティ「increment」を主宰し、Techpitとのイベントも経験。  
+**SI業界 営業で新卒入社  
+日本・世界各地のネットワーク機器の保守のネットワークエンジニアを経験  
+2020年1月に転職  
+日本最大級ECサイトのバックエンド、フロントを受託開発  
+エンジニアコミュニティ「increment」を主宰  
+Techpitとのイベントも経験。  **
 
 ---
 ![](https://cdn.clipkit.co/tenants/591/item_images/images/000/015/585/large/ccee50af-a225-4827-a493-926f9a2f6326.png?1603420305)
 ---
 ## 崖っぷちの頃
+![](http://www.ghibli.jp/works/ponyo/#frame&gid=1&pid=5)
 ---
 ## 2019年9月
 - 仕事を失い
@@ -49,6 +52,7 @@ SI業界にて営業として新卒入社。
 - rb会への参加
 - コミュニティに入った
 - コミュニティを作った
+![](assets/img/increment_zoom.png)
 ---
 ## コミュニティの良かったところ
 - 勉強会のシェア
