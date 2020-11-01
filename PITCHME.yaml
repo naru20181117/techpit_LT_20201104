@@ -1,8 +1,8 @@
 #テーマの設定
-theme : moon
+theme : sky
 
 #ロゴアイコンの設定
-# logo : logo.png
+logo : https://avatars1.githubusercontent.com/u/45118406?s=100&u=7a8a177afc05cd1abd42bbe0b4bc53fdf4d56afa&v=4
 
 #フットノートの設定
 footnote : "© 2020 tsukazaki"
