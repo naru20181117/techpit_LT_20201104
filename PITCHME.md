@@ -54,9 +54,10 @@ Techpitとのイベントも経験。  **
 ## コミュニティに入った
 - rb会への参加
 - コミュニティに入った
-- コミュニティを作った
-<img src="assets/img/increment_zoom.jpg" width="200px">
+- コミュニティを作った  
+
 ![](https://increment-yourself.slack.com/files/UQKMMCF6F/F01A27NBA9X/____________________________2020-08-28_22.38.21.png)
+
 ---
 ## コミュニティの良かったところ
 - 勉強会のシェア
