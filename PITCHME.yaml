@@ -16,4 +16,5 @@ transition : fade
 #コードのシンタックスハイライトの設定
 highlight : monokai
 
-background : assets/img/increment_zoom.png
+background : assets/img/material.jpg
+
