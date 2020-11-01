@@ -56,7 +56,7 @@ Techpitとのイベントも経験。  **
 - コミュニティに入った
 - コミュニティを作った  
 
-![](https://increment-yourself.slack.com/files/UQKMMCF6F/F01A27NBA9X/____________________________2020-08-28_22.38.21.png)
+![](assets/img/increment_zoom.png)
 
 ---
 ## コミュニティの良かったところ
