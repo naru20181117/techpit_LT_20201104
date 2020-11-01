@@ -20,7 +20,7 @@ Techpitとのイベントも経験。  **
 ![](https://cdn.clipkit.co/tenants/591/item_images/images/000/015/585/large/ccee50af-a225-4827-a493-926f9a2f6326.png?1603420305)
 ---
 ## 崖っぷちの頃
-![](http://www.ghibli.jp/works/ponyo/#frame&gid=1&pid=5)
+![](assets/img/ponyo005.jpg)
 ---
 ## 2019年9月
 - 仕事を失い
@@ -55,7 +55,8 @@ Techpitとのイベントも経験。  **
 - rb会への参加
 - コミュニティに入った
 - コミュニティを作った
-![](assets/img/increment_zoom.png)
+<img src="assets/img/increment_zoom.jpg" width="200px">
+/** ![](assets/img/increment_zoom.png) **/
 ---
 ## コミュニティの良かったところ
 - 勉強会のシェア
@@ -114,16 +115,17 @@ Techpitとのイベントも経験。  **
       - 2月に転職活動終了3月から就業
 ---
 ## Techpitさんも時短になった
-- これまで4つほど教材で学んだ
-- 2つは少しだけ改修して自分のポートフォリオに
-- 抽象概念の理解から具体に落とし込む良いきっかけになった
+- 4つ教材で学んだ
+- 改修して自分のポートフォリオに
+- 抽象概念　→　具体
 ---
 ## 転職してみて思う🖐
 
-**最高**
-- とにかく楽しい
+![](assets/img/ponyo005.jpg)
+---
+- 仕事が楽しい
 - QOL高まる
-- また新卒でやり直したとしてもエンジニアをしたい
+- 新卒でやり直したとしてもエンジニア
 ---
 ## Increment紹介
 - エンジニアの情報共有
