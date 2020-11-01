@@ -4,9 +4,7 @@
 
 hashtag : [#Techpit](https://twitter.com/intent/tweet?text=&hashtags=Techpit)
 ---
-## 今日の紹介
-
-### 自己紹介
+## 自己紹介
 ```
 SI業界にて営業として新卒入社。
 同社にて、日本・世界各地のネットワーク機器の保守をするネットワークエンジニアを経験。
