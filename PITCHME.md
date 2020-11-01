@@ -56,7 +56,7 @@ Techpitとのイベントも経験。  **
 - コミュニティに入った
 - コミュニティを作った
 <img src="assets/img/increment_zoom.jpg" width="200px">
-/** ![](assets/img/increment_zoom.png) **/
+![](https://increment-yourself.slack.com/files/UQKMMCF6F/F01A27NBA9X/____________________________2020-08-28_22.38.21.png)
 ---
 ## コミュニティの良かったところ
 - 勉強会のシェア
@@ -121,7 +121,7 @@ Techpitとのイベントも経験。  **
 ---
 ## 転職してみて思う🖐
 
-![](assets/img/ponyo005.jpg)
+![](assets/img/ponyo024.jpg)
 ---
 - 仕事が楽しい
 - QOL高まる
