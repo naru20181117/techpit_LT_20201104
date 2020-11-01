@@ -1,6 +1,6 @@
 #  techpit_LT_20201104
 
-![](https://avatars1.githubusercontent.com/u/45118406?s=100&u=7a8a177afc05cd1abd42bbe0b4bc53fdf4d56afa&v=4)
+@size[3em]![](https://avatars1.githubusercontent.com/u/45118406?s=100&u=7a8a177afc05cd1abd42bbe0b4bc53fdf4d56afa&v=4)
 
 hashtag : [#Techpit](https://twitter.com/intent/tweet?text=&hashtags=Techpit)
 ---
@@ -13,6 +13,8 @@ SI業界にて営業として新卒入社。
 2020年1月に転職。日本最大級ECサイトのバックエンド、フロントを受託開発。
 プライベートでもエンジニアコミュニティ「increment」を主宰し、Techpitとのイベントも経験。
 ```
+
+---?image=assets/img/increment_zoom.png
 ---
 ![](https://cdn.clipkit.co/tenants/591/item_images/images/000/015/585/large/ccee50af-a225-4827-a493-926f9a2f6326.png?1603420305)
 ---
