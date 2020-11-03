@@ -78,7 +78,7 @@ Techpitとのイベントも経験。  **
 
 - 自分を強くして少数で派
 ---
-![](https://i.gyazo.com/da369ef9d418d939bcdab7a6cbd0fdae.png)
+[![](https://i.gyazo.com/da369ef9d418d939bcdab7a6cbd0fdae.png)](https://naruhiro-portfolio.firebaseapp.com/)
 ---
 
 ## ポートフォリオページを作った
