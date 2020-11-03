@@ -1,6 +1,7 @@
 #  techpit_LT_20201104
 
-@size[3em]![](https://avatars1.githubusercontent.com/u/45118406?s=100&u=7a8a177afc05cd1abd42bbe0b4bc53fdf4d56afa&v=4)
+@size[3em]
+[![](https://avatars1.githubusercontent.com/u/45118406?s=100&u=7a8a177afc05cd1abd42bbe0b4bc53fdf4d56afa&v=4)](https://github.com/naru20181117/techpit_LT_20201104/blob/master/PITCHME.md)
 
 hashtag : [#Techpit](https://twitter.com/intent/tweet?text=&hashtags=Techpit)
 ---
